@@ -87,6 +87,7 @@ other human-edited structured content where its three-type model is a good fit.
 - Use the [Python implementation](https://github.com/nohainc/nanomarkup.python).
 - Use the [Go implementation](https://github.com/nohainc/nanomarkup.go).
 - Use the [JavaScript and TypeScript implementation](https://github.com/nohainc/nanomarkup.javascript).
+- Follow the release-ready [Dart implementation](https://github.com/nohainc/nanomarkup.dart).
 
 The implementation repositories document their language-specific APIs,
 installation methods, supported specification version, and release status.
