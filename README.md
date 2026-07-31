@@ -86,6 +86,7 @@ other human-edited structured content where its three-type model is a good fit.
 - Explore the paired [Nano Markup and JSON examples](examples).
 - Use the [Python implementation](https://github.com/nohainc/nanomarkup.python).
 - Use the [Go implementation](https://github.com/nohainc/nanomarkup.go).
+- Use the [JavaScript and TypeScript implementation](https://github.com/nohainc/nanomarkup.javascript).
 
 The implementation repositories document their language-specific APIs,
 installation methods, supported specification version, and release status.
